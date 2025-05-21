@@ -1,0 +1,10 @@
+pdfminer.six
+spacy
+streamlit
+pandas
+sentence-transformers
+torch
+docx2txt
+
+# Note: After installing the above packages, run the following command to download the spaCy English model:
+# python -m spacy download en_core_web_sm
